@@ -1,0 +1,28 @@
+C:\Users\SERGIO\source\repos\Examen1\Examen1\bin\Debug\netcoreapp3.1\Examen1.exe
+C:\Users\SERGIO\source\repos\Examen1\Examen1\bin\Debug\netcoreapp3.1\Examen1.deps.json
+C:\Users\SERGIO\source\repos\Examen1\Examen1\bin\Debug\netcoreapp3.1\Examen1.runtimeconfig.json
+C:\Users\SERGIO\source\repos\Examen1\Examen1\bin\Debug\netcoreapp3.1\Examen1.runtimeconfig.dev.json
+C:\Users\SERGIO\source\repos\Examen1\Examen1\bin\Debug\netcoreapp3.1\Examen1.dll
+C:\Users\SERGIO\source\repos\Examen1\Examen1\bin\Debug\netcoreapp3.1\Examen1.pdb
+C:\Users\SERGIO\source\repos\Examen1\Examen1\obj\Debug\netcoreapp3.1\Examen1.csproj.AssemblyReference.cache
+C:\Users\SERGIO\source\repos\Examen1\Examen1\obj\Debug\netcoreapp3.1\Examen1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SERGIO\source\repos\Examen1\Examen1\obj\Debug\netcoreapp3.1\Examen1.AssemblyInfoInputs.cache
+C:\Users\SERGIO\source\repos\Examen1\Examen1\obj\Debug\netcoreapp3.1\Examen1.AssemblyInfo.cs
+C:\Users\SERGIO\source\repos\Examen1\Examen1\obj\Debug\netcoreapp3.1\Examen1.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\source\repos\Examen1\Examen1\obj\Debug\netcoreapp3.1\Examen1.dll
+C:\Users\SERGIO\source\repos\Examen1\Examen1\obj\Debug\netcoreapp3.1\Examen1.pdb
+C:\Users\SERGIO\source\repos\Examen1\Examen1\obj\Debug\netcoreapp3.1\Examen1.genruntimeconfig.cache
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\gggg\Examen1\Examen1\bin\Debug\netcoreapp3.1\Examen1.exe
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\gggg\Examen1\Examen1\bin\Debug\netcoreapp3.1\Examen1.deps.json
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\gggg\Examen1\Examen1\bin\Debug\netcoreapp3.1\Examen1.runtimeconfig.json
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\gggg\Examen1\Examen1\bin\Debug\netcoreapp3.1\Examen1.runtimeconfig.dev.json
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\gggg\Examen1\Examen1\bin\Debug\netcoreapp3.1\Examen1.dll
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\gggg\Examen1\Examen1\bin\Debug\netcoreapp3.1\Examen1.pdb
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\gggg\Examen1\Examen1\obj\Debug\netcoreapp3.1\Examen1.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\gggg\Examen1\Examen1\obj\Debug\netcoreapp3.1\Examen1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\gggg\Examen1\Examen1\obj\Debug\netcoreapp3.1\Examen1.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\gggg\Examen1\Examen1\obj\Debug\netcoreapp3.1\Examen1.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\gggg\Examen1\Examen1\obj\Debug\netcoreapp3.1\Examen1.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\gggg\Examen1\Examen1\obj\Debug\netcoreapp3.1\Examen1.dll
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\gggg\Examen1\Examen1\obj\Debug\netcoreapp3.1\Examen1.pdb
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\gggg\Examen1\Examen1\obj\Debug\netcoreapp3.1\Examen1.genruntimeconfig.cache
